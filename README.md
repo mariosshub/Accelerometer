@@ -14,3 +14,13 @@ Overall, the application supports the following functionalities:
 ## Technologies used
  - Android Studio 
  - Firebase 
+
+## Screenshots
+  <img src="images/login.jpg" width="190" /> <i>Login form</i>
+  <br>
+  <img src="images/main.jpg" width="190" /> <i>Main menu</i>
+  <br>
+  <img src="images/map_route.jpg" width="190" /> <i>Routes and their details presented on map</i> 
+  <br>
+  <img src="images/map_users_routes.jpg" width="190" /> <i> All routes of every user </i>
+  
